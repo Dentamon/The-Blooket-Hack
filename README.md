@@ -1,7 +1,7 @@
 # The Blooket Hack
 Blooket hacks that really work!
 # What are The Blooket Hacks?
-Our Blooket hacks are for people who don't want to spend a ton of time doing work, or answering questions by thinking.
+Our Blooket hacks allow people to progress more efficiently, easily!
 ### Using these Blooket Hacks, you can:
 #### Instantly add 500 tokens to your account
 #### Open a huge amount of boxes without waiting in just seconds
