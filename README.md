@@ -1,4 +1,4 @@
-# The Blooket Hack
+# The Blooket Hack - A Collaboration project by Dentamon and zastix
 Blooket hacks that really work!
 #### Also Thanks to [gliz](https://github.com/glixzzy) and [Glixerz](https://github.com/Glixerz) for the code!
 #### All code from their repo's!
