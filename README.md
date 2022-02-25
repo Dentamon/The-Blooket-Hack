@@ -1,5 +1,7 @@
 # The Blooket Hack
 Blooket hacks that really work!
+### Thanks to [gliz](https://github.com/glixzzy) and [Glixerz](https://github.com/Glixerz) for the code!
+All code from their repo's!
 # What are The Blooket Hacks?
 Our Blooket hacks allow people to progress more efficiently, easily!
 ### Using these Blooket Hacks, you can:
