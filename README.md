@@ -26,4 +26,4 @@ First, copy the script in the `Script.js` file.
 Go onto Blooket and type in `javascript:` into the adress bar.
 Select the hack you want to use from the hack window!
 If there is anything wrong, contact Zastix [here](https://mail.google.com/mail/?view=cm&fs=1&to=zastixxoncrack@gmail.com&su=Contact%20Me) or report an [issue](https://github.com/ZasticBradyn/BlooketUI/issues/new)
-# The Blooket UI is still under development, so not all hacks have been added
+### The Blooket UI is still under development, so not all hacks have been added.  Please be patient.
