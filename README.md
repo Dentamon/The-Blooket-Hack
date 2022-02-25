@@ -12,7 +12,7 @@ Then, type in `javascript:` into the adress bar.
 Afterwards, paste in the script that you have copied.
 Once you have finished that, just press enter to activate the hack.
 The Blooket hack should work immediately after.
-If something goes wrong, submit an [issue](https://github.com/Dentamon/The-Blooket-Hack-v2/issues/new)
+If something goes wrong, open an [issue](https://github.com/Dentamon/The-Blooket-Hack-v2/issues/new)
 # Blooket UI
 The Better, faster, and easier version of Blooket hacks by [Zastix](https://github.com/ZasticBradyn)
 # What is the Blooket UI?
@@ -25,5 +25,5 @@ Go to the Blooket UI by clicking here! [Blooket UI](https://github.com/ZasticBra
 First, copy the script in the `Script.js` file.
 Go onto Blooket and type in `javascript:` into the adress bar.
 Select the hack you want to use from the hack window!
-If there is anything wrong, contact Zastix [here](https://mail.google.com/mail/?view=cm&fs=1&to=zastixxoncrack@gmail.com&su=Contact%20Me) or report an [issue](https://github.com/ZasticBradyn/BlooketUI/issues/new)
+If there is anything wrong, contact Zastix [here](https://mail.google.com/mail/?view=cm&fs=1&to=zastixxoncrack@gmail.com&su=Contact%20Me) or open an [issue](https://github.com/ZasticBradyn/BlooketUI/issues/new)
 ### The Blooket UI is still under development, so not all hacks have been added.  Please be patient.
