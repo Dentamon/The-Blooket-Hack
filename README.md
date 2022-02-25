@@ -7,11 +7,12 @@ Instantly add 500 tokens to your account
 Open a huge amount of boxes without waiting in just seconds
 Answer every question correctly, no matter what it is
 # How to use
-First, type in `javascript:` into the adress bar. 
-Then paste in the script that you want to use.
-Once you have finished that, just press 'enter' to activate the hack.
+First, copy the script in the file.
+Then, type in `javascript:` into the adress bar. 
+Afterwards, paste in the script that you have copied.
+Once you have finished that, just press enter to activate the hack.
 The Blooket hack should work immediately after.
-If anything is not working, submit an [issue](https://github.com/Dentamon/The-Blooket-Hack-v2/issues/new)
+If something goes wrong, submit an [issue](https://github.com/Dentamon/The-Blooket-Hack-v2/issues/new)
 # Blooket UI
 The Better, faster, and easier version of Blooket hacks by [Zastix](https://github.com/ZasticBradyn)
 # What is the Blooket UI?
@@ -20,3 +21,9 @@ Instead of the classic copy and paste from github to Blooket, the Blooket UI all
 From there, you will see a little window pop up that allows you to choose from a variety of Blooket hacks!
 # Where can you find the Blooket UI?
 To go to the Blooket UI, just click this!  [Blooket UI](https://github.com/ZasticBradyn/BlooketUI)
+# How to use the Blooket UI
+First, copy the script in the `Script.js` file.
+Go onto Blooket and type in `javascript:` into the adress bar.
+Select the hack you want to use from the hack window!
+If there is anything wrong, contact Zastix [here](https://mail.google.com/mail/?view=cm&fs=1&to=zastixxoncrack@gmail.com&su=Contact%20Me) or report an [issue](https://github.com/ZasticBradyn/BlooketUI/issues/new)
+# The Blooket UI is still under development, so not all hacks have been added
