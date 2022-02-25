@@ -2,10 +2,10 @@
 Blooket hacks that really work!
 # What are The Blooket Hacks?
 Our Blooket hacks are for people who don't want to spend a ton of time doing work, or answering questions by thinking.
-Using these Blooket Hacks, you can:
-Instantly add 500 tokens to your account
-Open a huge amount of boxes without waiting in just seconds
-Answer every question correctly, no matter what it is
+###Using these Blooket Hacks, you can:
+##Instantly add 500 tokens to your account
+##Open a huge amount of boxes without waiting in just seconds
+##Answer every question correctly, no matter what it is
 # How to use
 First, copy the script in the file.
 Then, type in `javascript:` into the adress bar. 
