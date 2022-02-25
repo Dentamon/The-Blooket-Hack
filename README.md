@@ -6,4 +6,4 @@ Instead of the classic copy and paste from github to Blooket, the Blooket UI all
 From there, you will see a little window pop up that allows you to choose from a variety of Blooket hacks!
 # Where can you find the Blooket UI?
 To go to the Blooket UI, just click this!  [Blooket UI](https://github.com/ZasticBradyn/BlooketUI)
-(javascript)
+Type in #javascript
