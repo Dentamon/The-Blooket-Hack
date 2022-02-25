@@ -7,9 +7,11 @@ Instantly add 500 tokens to your account
 Open a huge amount of boxes without waiting in just seconds
 Answer every question correctly, no matter what it is
 # How to use
-First, type in javascript: into the adress bar. 
+First, type in `javascript:` into the adress bar. 
 Then paste in the script that you want to use.
-The B
+Once you have finished that, just press 'enter' to activate the hack.
+The Blooket hack should work immediately after.
+If anything is not working, submit an [issue](https://github.com/Dentamon/The-Blooket-Hack-v2/issues/new)
 # Blooket UI
 The Better, faster, and easier version of Blooket hacks by [Zastix](https://github.com/ZasticBradyn)
 # What is the Blooket UI?
