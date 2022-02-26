@@ -14,7 +14,6 @@ Once you have finished that, just press enter to activate the hack.
 The Blooket hack should work immediately after.
 If something goes wrong, open an issue [here](https://github.com/Dentamon/The-Blooket-Hack-v2/issues/new)
 ### The Blooket Hack © copyright 2022 by Dentamon
-### Also check out the zastix Blooket Hacks [here](https://github.com/ZasticBradyn/Blooket-Hacks)!
 
 ## Blooket UI
 The Better, faster, and easier version of Blooket hacks by [zastix](https://github.com/ZasticBradyn)
