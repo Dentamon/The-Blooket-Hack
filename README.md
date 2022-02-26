@@ -17,13 +17,13 @@ If something goes wrong, open an issue [here](https://github.com/Dentamon/The-Bl
 
 # Blooket UI
 The Better, faster, and easier version of Blooket hacks by [zastix](https://github.com/ZasticBradyn)
-# What is the Blooket UI?
+## What is the Blooket UI?
 The Blooket UI is a script that allows you to use Blooket hacks with ease.
 Instead of the classic copy and paste from github to Blooket, the Blooket UI allows you to just copy and paste one time!
 From there, you will see a little window pop up that allows you to choose from a variety of Blooket hacks!
-# Where can you find the Blooket UI?
+## Where can you find the Blooket UI?
 Go to the Blooket UI by clicking here! [Blooket UI](https://github.com/ZasticBradyn/BlooketUI)
-# How to use the Blooket UI
+## How to use the Blooket UI
 First, copy the script in the `Script.js` file.
 Go onto Blooket and type in `javascript:` into the adress bar.
 Select the hack you want to use from the hack window!
