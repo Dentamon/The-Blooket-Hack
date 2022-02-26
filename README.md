@@ -8,10 +8,10 @@ Our Blooket hacks allow people to progress more efficiently, easily!
 #### • Answer every question correctly, no matter what it is
 # How to use
 First, copy the script that you want to use from the dedicated file.
-Then, type in `javascript:` into the adress bar. 
+Then, type `javascript:` into the adress bar. 
 Afterwards, paste in the script that you have copied.
 Once you have finished that, just press enter to activate the hack.
-The Blooket hack should work immediately after.
+The hack should work immediately after.
 If something goes wrong, open an issue [here](https://github.com/Dentamon/The-Blooket-Hack-v2/issues/new)
 ### The Blooket Hack © copyright 2022 by Dentamon
 
@@ -25,8 +25,8 @@ From there, you will see a little window pop up that allows you to choose from a
 Go to the Blooket UI by clicking here! [Blooket UI](https://github.com/ZasticBradyn/BlooketUI)
 ## How to use the Blooket UI
 First, copy the script in the `Script.js` file.
-Go onto Blooket and type in `javascript:` into the adress bar.
-Select the hack you want to use from the hack window!
+Go onto Blooket and type `javascript:` into the adress bar.
+Select the hack you want to use from the GUI!
 If there is anything wrong, open an issue [here](https://github.com/ZasticBradyn/BlooketUI/issues/new)
 ### The Blooket UI is still under development, so not all hacks have been added.  Please be patient.
 ### Blooket UI © copyright 2022 by zastix
