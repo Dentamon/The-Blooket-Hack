@@ -3,9 +3,9 @@ Blooket hacks that really work!
 # What are The Blooket Hacks?
 Our Blooket hacks allow people to progress more efficiently, easily!
 ### Using these Blooket Hacks, you can:
-#### - Instantly add 500 tokens to your account
-#### - Open a huge amount of boxes without waiting in just seconds
-#### - Answer every question correctly, no matter what it is
+#### • Instantly add 500 tokens to your account
+#### • Open a huge amount of boxes without waiting in just seconds
+#### • Answer every question correctly, no matter what it is
 # How to use
 First, copy the script that you want to use from the dedicated file.
 Then, type in `javascript:` into the adress bar. 
@@ -13,7 +13,10 @@ Afterwards, paste in the script that you have copied.
 Once you have finished that, just press enter to activate the hack.
 The Blooket hack should work immediately after.
 If something goes wrong, open an issue [here](https://github.com/Dentamon/The-Blooket-Hack-v2/issues/new)
-# Blooket UI
+### The Blooket Hack © copyright 2022 by Dentamon
+### Also check out the zastix Blooket Hacks [here](https://github.com/ZasticBradyn/Blooket-Hacks)!
+
+## Blooket UI
 The Better, faster, and easier version of Blooket hacks by [zastix](https://github.com/ZasticBradyn)
 # What is the Blooket UI?
 The Blooket UI is a script that allows you to use Blooket hacks with ease.
