@@ -1,4 +1,4 @@
-# The Blooket Hack - A Collaboration project by Dentamon and zastix
+# The Blooket Hack - A Collaboration between Dentamon and zastix
 Blooket hacks that really work!
 # What are The Blooket Hacks?
 Our Blooket hacks allow people to progress more efficiently, easily!
