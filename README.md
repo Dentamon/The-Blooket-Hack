@@ -26,8 +26,9 @@ From there, you will see a little window pop up that allows you to choose from a
 Go to the Blooket UI by clicking here! [Blooket UI](https://github.com/ZasticBradyn/BlooketUI)
 ## How to use the Blooket UI
 First, copy the script in the `Script.js` file.
-Go onto Blooket and type `javascript:` into the adress bar.
-Select the hack you want to use from the GUI!
-If there is anything wrong, open an issue [here](https://github.com/ZasticBradyn/BlooketUI/issues/new)
+Go onto Blooket and type `javascript:` into the address bar and then paste the script (CTRL + V).
+press enter
+and then Select the hack you want to use from the hack window!
+If anything goes wrong open a issue [here](https://github.com/ZasticBradyn/BlooketUI/issues/new
 ### The Blooket UI is still under development, so not all hacks have been added.  Please be patient.
 ### Blooket UI © copyright 2022 by zastix
