@@ -2,10 +2,11 @@
 Blooket hacks that really work!
 # What are The Blooket Hacks?
 Our Blooket hacks allow people to progress more efficiently, easily!
-### Using these Blooket Hacks, you can:
-#### • Instantly add 500 tokens to your account
-#### • Open a huge amount of boxes without waiting in just seconds
-#### • Answer every question correctly, no matter what it is
+### The Blooket Hacks currently support:
+#### • Global
+#### • Fishing Frenzy
+#### • Gold
+#### • Tower Defense
 ### And a whole variety of other very useful gamemode hacks!
 # How to use
 First, copy the script that you want to use from the dedicated file.
