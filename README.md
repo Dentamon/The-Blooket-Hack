@@ -31,4 +31,4 @@ press enter
 and then Select the hack you want to use from the hack window!
 If anything goes wrong open a issue [here](https://github.com/ZasticBradyn/BlooketUI/issues/new)
 ### The Blooket UI is still under development, so not all hacks have been added.  Please be patient.
-### Blooket UI © copyright 2022 by zastix
+### BlooketUI Copyright © 2022 zastix
