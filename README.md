@@ -6,6 +6,7 @@ Our Blooket hacks allow people to progress more efficiently, easily!
 #### • Instantly add 500 tokens to your account
 #### • Open a huge amount of boxes without waiting in just seconds
 #### • Answer every question correctly, no matter what it is
+### And a whole variety of other very useful gamemode hacks!
 # How to use
 First, copy the script that you want to use from the dedicated file.
 Then, type `javascript:` into the adress bar. 
