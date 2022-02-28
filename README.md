@@ -2,11 +2,13 @@
 Blooket hacks that really work!
 # What are The Blooket Hacks?
 Our Blooket hacks allow people to progress more efficiently, easily!
-### The Blooket Hacks currently support:
+# Hacks:
 #### • Global
 #### • Fishing Frenzy
 #### • Gold
 #### • Tower Defense
+#### • Tower of Doom
+#### • Racing
 ### And a whole variety of other very useful gamemode hacks!
 # How to use
 First, copy the script that you want to use from the dedicated file.
