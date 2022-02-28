@@ -1,5 +1,6 @@
 # The Blooket Hack - A Collaboration between Dentamon and zastix
 Blooket hacks that really work!
+Also check out zastix's [Blooket Hacks](https://github.com/ZasticBradyn/Blooket-Hacks)
 # What are The Blooket Hacks?
 Our Blooket hacks allow people to progress more efficiently, easily!
 # Hacks:
