@@ -10,6 +10,7 @@ Our Blooket hacks allow people to progress more efficiently, easily!
 #### • Tower Defense
 #### • Tower of Doom
 #### • Racing
+#### • Crazy Kindom
 # How to use
 First, copy the script that you want to use from the dedicated file.
 Then, type `javascript:` into the adress bar. 
