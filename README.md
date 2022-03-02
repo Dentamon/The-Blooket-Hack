@@ -21,18 +21,5 @@ If something goes wrong, open an issue [here](https://github.com/Dentamon/The-Bl
 ### The Blooket Hack © copyright 2022 by Dentamon
 
 # Blooket UI
-The Better, faster, and easier version of Blooket hacks by [zastix](https://github.com/ZasticBradyn)
-## What is the Blooket UI?
-The Blooket UI is a script that allows you to use Blooket hacks with ease.
-Instead of the classic copy and paste from github to Blooket, the Blooket UI allows you to just copy and paste one time!
-From there, you will see a little window pop up that allows you to choose from a variety of Blooket hacks!
-## Where can you find the Blooket UI?
-Go to the Blooket UI by clicking here! [Blooket UI](https://github.com/ZasticBradyn/BlooketUI)
-## How to use the Blooket UI
-First, copy the script in the `Script.js` file.
-Go onto Blooket and type `javascript:` into the address bar and then paste the script (CTRL + V).
-press enter
-and then Select the hack you want to use from the hack window!
-If anything goes wrong open a issue [here](https://github.com/ZasticBradyn/BlooketUI/issues/new)
-### The Blooket UI is still under development, so not all hacks have been added.  Please be patient.
-### BlooketUI Copyright © 2022 zastix
+The blooketUI has been taken down, and the source code has been uploaded.
+[here]() (no link yet cause im waiting for gliz to respond)
