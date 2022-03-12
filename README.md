@@ -1,6 +1,5 @@
-# The Blooket Hack - A Collaboration between Dentamon and zastix
-Blooket hacks that really work!
-#### Also check out zastix's [Blooket Hacks](https://github.com/ZasticBradyn/Blooket-Hacks)
+# The Blooket Hack - Blooket hacks that really work!
+#### Check out zastix's [CheatTools](https://github.com/ZasticBradyn/BlooketCheatTools), if you want to make hacks like these!
 # What are The Blooket Hacks?
 Our Blooket hacks allow people to progress more efficiently, easily!
 # Hacks:
@@ -22,4 +21,4 @@ If something goes wrong, open an issue [here](https://github.com/Dentamon/The-Bl
 
 # Blooket UI
 The blooketUI has been taken down, and the source code has been uploaded.
-[here]() (no link yet cause im waiting for gliz to respond)
+[here](https://github.com/Dentamon/The-Blooket-Hack/blob/main/blooketUI/src.js).
