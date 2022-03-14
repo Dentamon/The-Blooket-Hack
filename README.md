@@ -20,5 +20,4 @@ If something goes wrong, open an issue [here](https://github.com/Dentamon/The-Bl
 ### The Blooket Hack © copyright 2022 by Dentamon
 
 # Blooket UI
-The blooketUI has been taken down, and the source code has been uploaded.
-[here](https://github.com/Dentamon/The-Blooket-Hack/blob/main/blooketUI/src.js).
+The blooketUI has been taken down, and the source code has been uploaded [here](https://github.com/Dentamon/The-Blooket-Hack/blob/main/blooketUI/src.js).
