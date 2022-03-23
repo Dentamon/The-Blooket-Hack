@@ -1,6 +1,9 @@
 # The Blooket Hack - Blooket hacks that really work!
 #### A collaboration between Dentamon and zastix
-#### Check out zastix's [CheatTools](https://github.com/ZasticBradyn/BlooketCheatTools), if you want to make hacks like these!
+# Other Repo's
+#### zastix's [CheatTools](https://github.com/ZasticBradyn/BlooketCheatTools)
+#### zastix's [Blacket Hacks](https://github.com/ZasticBradyn/blacket-hacks)
+#### My [Blacket Hacks](https://github.com/Dentamon/Blacket-Hacks)
 # What are The Blooket Hacks?
 Our Blooket hacks allow people to progress more efficiently, easily!
 # Hacks:
