@@ -24,5 +24,5 @@ If something goes wrong, open an issue [here](https://github.com/Dentamon/The-Bl
 The blooketUI has been taken down, and the source code has been uploaded [here](https://github.com/Dentamon/The-Blooket-Hack/blob/main/blooketUI/src.js).
 
 # Credits
-### Dentamon:  General Updater
+### Dentamon:  General Updater and Uploader
 ### Zastix:  Bypass and various hacks
