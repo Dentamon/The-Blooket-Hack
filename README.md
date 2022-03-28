@@ -4,6 +4,8 @@
 
 <a href="https://github.com/Dentamon/github-readme-stats/issues">
       <img alt="Issues" src="https://img.shields.io/github/issues/Dentamon/github-readme-stats?color=0088ff" />
+<a href="https://github.com/Dentamon/github-readme-stats/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/Dentamon/github-readme-stats?color=0088ff" />
 
 # Other Repo's
 #### zastix's [CheatTools](https://github.com/ZasticBradyn/BlooketCheatTools)
