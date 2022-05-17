@@ -8,9 +8,8 @@
       <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/Dentamon/github-readme-stats?color=0088ff" />
 
 # Other Repo's
-#### zastix's [CheatTools](https://github.com/ZasticBradyn/BlooketCheatTools)
-#### zastix's [Blacket Hacks](https://github.com/ZasticBradyn/blacket-hacks)
-#### My [Blacket Hacks](https://github.com/Dentamon/Blacket-Hacks)
+#### [Blooket CheatTools](https://github.com/ZasticBradyn/BlooketCheatTools)
+#### [Betastar Hacks](https://github.com/ZasticBradyn/blacket-hacks)
 # What are The Blooket Hacks?
 Our Blooket hacks allow people to progress more efficiently, easily!
 # Hacks:
@@ -31,7 +30,7 @@ If something goes wrong, open an issue [here](https://github.com/Dentamon/The-Bl
 ### The Blooket Hack © copyright 2022 by Dentamon
 
 # Blooket UI
-The blooketUI has been taken down, and the source code has been uploaded [here](https://github.com/Dentamon/The-Blooket-Hack/blob/main/blooketUI/src.js).
+A new version of the BlooketUI has been uploaded by zastix after bringing it down.  You can find it [here](https://github.com/notzastix/blooketUI)
 
 # Credits
 ### Dentamon:  General Updater and Uploader
